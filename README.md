@@ -37,9 +37,9 @@ Attached ReadOnlyAccess policy (limited permissions)
 
 All steps are supported with screenshots:
 
-User creation
-Permissions
-MFA setup
-Group assignments
+User creation,
+Permissions,
+MFA setup,
+Group assignments,
 Root account security
 
