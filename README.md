@@ -11,6 +11,7 @@ MFA (Multi-Factor Authentication) enforced
 Root account security ensured
 
 🔧 What I Did
+
 🧑‍💼 1. Created Admin IAM User (cloud-admin)
 
 Enabled console login
